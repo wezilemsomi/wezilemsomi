@@ -3,11 +3,11 @@
 
 Medical Scientist | Msc Bioinformatics Candidate
 ------------------------------------------------
-I am a Medical Scientist and MSc Bioinformatics student with a background in Immunology, Virology, and Public Health Research. My interests lie at the intersection of biological sciences, computational analysis, and data-driven healthcare solutions.
 
 <p align="center">
   <img src="https://github.com/wezilemsomi/wezilemsomi/blob/main/generated-image.png?raw=true" alt="Bioinformatics retro arcade banner" />
 </p>
+I am a Medical Scientist and MSc Bioinformatics student with a background in Immunology, Virology, and Public Health Research. My interests lie at the intersection of biological sciences, computational analysis, and data-driven healthcare solutions.
 
 This Github serves as a document my learning journey, share research-related projects, explore computational methods, and showcase work at the intersection of biology and technology.
 
