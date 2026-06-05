@@ -6,15 +6,19 @@ I am a Medical Scientist and MSc Bioinformatics student with a background in Imm
   <img src="https://github.com/wezilemsomi/wezilemsomi/blob/main/generated-image.png?raw=true" alt="Bioinformatics retro arcade banner" />
 </p>
 
+This GitHub serves as a space to document my learning journey, share research-related projects, explore computational methods, and showcase work at the intersection of biology and technology.
 
+Research Areas:
+🧬 Immunology
+🦠 Virology
+🧪 Molecular Diagnostics
+💻 Bioinformatics
+📊 Data Science
+🌍 Public Health Research
 
+I am passionate about using computational tools and biological data to address real-world health challenges and contribute to the advancement of precision medicine and public health.
 
-
-### 🧬 Research & Interests
-- Immunology & Virology  
-- Molecular diagnostics & genomics  
-- Bioinformatics & statistical genetics  
-- Public health data analysis  
+“Transforming biological data into meaningful scientific discoveries.”
 
 ### 🌍 Connect
 - 🇿🇦 Based in South Africa  
